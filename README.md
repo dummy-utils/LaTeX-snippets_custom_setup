@@ -1,1 +1,1 @@
-# LaTeX-snippets_custom_setup
+# LaTeX snippets Setup - Ubuntu 22.04
